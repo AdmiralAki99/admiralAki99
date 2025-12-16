@@ -75,7 +75,6 @@ A ground-up implementation focused on **training correctness and debuggability**
 
 ## 🧩 Engineering Values
 - Reproducibility > flashy demos
-- Metrics over vibes
 - Systems thinking across ML, data, and infra
 - Clean abstractions, modular design, testability
 
