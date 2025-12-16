@@ -27,7 +27,7 @@ My work focuses on **reliable, reproducible, and deployable ML**, especially for
 - Config-driven, reproducible training
 - Designed for **edge inference readiness**
 
-🔗 Repo: [MobileNetV2-SSD](https://github.com/YOUR_USERNAME/mobilenetv2-ssd](https://github.com/AdmiralAki99/MobileNetV2-SSD/tree/dev)
+🔗 Repo: [MobileNetV2-SSD](https://github.com/AdmiralAki99/MobileNetV2-SSD/tree/dev)
 
 ---
 
