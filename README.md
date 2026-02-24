@@ -1,4 +1,4 @@
-# Akhilesh "Akhi" Warty
+# Akhilesh Warty
 
 ML engineer based in Boston. I've worked on NIH-funded Alzheimer's research building survival models and ETL pipelines over UK Biobank and EHR data at scale, and independently on computer vision systems — object detection pipelines, edge deployment, and the low-level embedded work that goes with it. I tend to care about the parts that are easy to skip: correctness, reproducibility, and making analyses and models actually hold up under scrutiny.
 
