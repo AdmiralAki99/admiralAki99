@@ -1,91 +1,38 @@
-# Akhilesh “Akhi” Warty 👋
+# Akhilesh "Akhi" Warty
 
-**AI / Machine Learning Engineer • Computer Vision • Data & Backend Systems**
+ML engineer based in Boston. I've worked on NIH-funded Alzheimer's research building survival models and ETL pipelines over UK Biobank and EHR data at scale, and independently on computer vision systems — object detection pipelines, edge deployment, and the low-level embedded work that goes with it. I tend to care about the parts that are easy to skip: correctness, reproducibility, and making analyses and models actually hold up under scrutiny.
 
-I design and build **end-to-end ML systems** — from **training pipelines and evaluation** to **edge deployment and backend infrastructure**.  
-My work focuses on **reliable, reproducible, and deployable ML**, especially for **computer vision and data-intensive applications**.
-
-📍 Boston, MA  
-🎯 Target roles: **AI/ML Engineer**, **Computer Vision Engineer**, **Data Engineer**, **Backend SWE**
+Open to roles in AI/ML Engineering, Computer Vision, or Data/Software Engineering.
 
 ---
 
-## 🔍 What I’m Working On
-- Designing **object detection pipelines** (SSD, Faster R-CNN) with custom matching, loss orchestration, and evaluation
-- Deploying **real-time inference on edge devices** (Jetson, TPUs, embedded Linux)
-- Building **data-quality & lineage systems** inspired by enterprise ETL governance
-- Focusing on **training stability, metrics, reproducibility, and system design**
+## Experience
+
+**Data/ML Engineer — NIH-funded Alzheimer's Disease Research**
+
+Built and validated longitudinal survival models (Cox PH, pooled logistic regression, mixed-effects) over UK Biobank and EHR datasets. Wrote statistical pipelines in R and Spark for data preparation, descriptive statistics, regression outputs, and publication-ready tables. Engineered Spark SQL ETL pipelines for extraction, validation, and preprocessing of large-scale clinical data supporting cohort analyses. Improved pipeline throughput by 13% through parallel Spark job scheduling optimization. Built an internal Python metadata management system for UK Biobank variables that standardized model specifications and enabled reproducible multiverse analyses across Alzheimer's and dementia cohorts. Contributed to manuscript development and presented findings to multidisciplinary stakeholders.
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🟦 MobileNetV2-SSD Detection Pipeline
-**End-to-end SSD training framework** with modular orchestration and evaluation  
-- Custom priors, matching, hard-negative mining
-- Modular loss orchestration + VOC-style mAP evaluation
-- Config-driven, reproducible training
-- Designed for **edge inference readiness**
+**[MobileNetV2-SSD Detection Pipeline](https://github.com/AdmiralAki99/MobileNetV2-SSD)**
+End-to-end SSD training framework built on MobileNetV2. Implements custom prior generation, anchor matching, hard-negative mining, and modular loss orchestration. Evaluation uses VOC-style mAP. Config-driven design with edge inference as a first-class concern.
 
-🔗 Repo: [MobileNetV2-SSD](https://github.com/AdmiralAki99/MobileNetV2-SSD/tree/dev)
+**[Faster R-CNN from Scratch (TensorFlow)](https://github.com/AdmiralAki99/FasterRCNN)**
+Full reimplementation of Faster R-CNN without pretrained scaffolding — custom RPN, dense RoI batching with GPU-friendly masking, and a complete two-stage training loop. Built with debuggability in mind: visualization utilities and failure-mode analysis throughout.
 
----
-
-### 🟦 Faster R-CNN from Scratch (TensorFlow)
-A ground-up implementation focused on **training correctness and debuggability**
-- Dense RoI batching with masking (GPU-friendly)
-- Custom RPN + RoI classifier training loop
-- Visualization and debugging utilities
-- Emphasis on **failure-mode analysis**
-
-🔗 Repo: [Faster R-CNN] (https://github.com/AdmiralAki99/FasterRCNN)
+**[Data Pipeline Quality & Lineage API](https://github.com/AdmiralAki99/Data-Pipeline-Quality-Lineage-API)**
+Spring Boot backend for tracking dataset and pipeline lineage, running automated quality checks, and maintaining audit logs. REST API with full OpenAPI documentation. CI/CD via GitHub Actions.
 
 ---
 
-### 🟦 Data Pipeline Quality & Lineage API
-**Spring Boot backend system** modeling data governance patterns
-- Dataset & pipeline lineage tracking
-- Automated data-quality checks and audit logs
-- REST APIs with OpenAPI/Swagger documentation
-- CI/CD via GitHub Actions
+## Skills
 
-🔗 Repo: [Data Pipeline Quality & Lineage API] (https://github.com/AdmiralAki99/Data-Pipeline-Quality-Lineage-API)
+**ML/CV:** TensorFlow/Keras, PyTorch, SSD, Faster R-CNN, loss design, evaluation metrics, model debugging  
+**Backend/Data:** Python, Java (Spring Boot), SQL, REST APIs, data pipeline design  
+**Infra:** Docker, GitHub Actions, AWS (EC2/S3), edge deployment, embedded Linux
 
 ---
 
-## 🧠 Technical Skills
-
-### Machine Learning & CV
-- Object Detection: **SSD, Faster R-CNN**
-- Frameworks: **TensorFlow/Keras, PyTorch**
-- Training: loss design, schedulers, EMA, evaluation metrics
-- Model debugging & failure analysis
-
-### Data & Backend
-- **Python, Java (Spring Boot), SQL**
-- Data pipelines, quality checks, lineage modeling
-- REST APIs, schema validation, monitoring concepts
-
-### Systems & Infra
-- **Docker, GitHub Actions, CI/CD**
-- AWS (EC2, S3 basics)
-- Edge deployment & embedded Linux
-
----
-
-## 🧩 Engineering Values
-- Reproducibility > flashy demos
-- Systems thinking across ML, data, and infra
-- Clean abstractions, modular design, testability
-
----
-
-## 📫 Let’s Connect
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/akhileshwarty)
-- 📧 **Email**: [Email](wartyakhilesh@gmail.com)
-- **GitHub:** You’re already here 🙂
-
----
-
-## 📌 Notes
-This profile reflects **ongoing work** — I actively iterate on architecture, training stability, and deployment strategies as I build.
+[LinkedIn](https://www.linkedin.com/in/akhileshwarty) — wartyakhilesh@gmail.com
