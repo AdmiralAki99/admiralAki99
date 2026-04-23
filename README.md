@@ -19,7 +19,7 @@ Worked on large-scale UK Biobank and EHR datasets, building distributed data pip
 ## Selected Projects
 
 **[Distributed Streaming Backend System](https://github.com/AdmiralAki99/mediabox)**  
-Scalable backend system supporting 50+ concurrent clients using WebSockets and AsyncIO.  
+Scalable backend system supporting clients using WebSockets and AsyncIO.  
 - Real-time data ingestion, transformation, and synchronization across distributed services  
 - Sub-50ms latency with concurrency-safe architecture validated via automated testing  
 - Proxy and caching layer reducing redundant requests by 50–75%  
