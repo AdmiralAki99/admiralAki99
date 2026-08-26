@@ -2,7 +2,7 @@
 
 Backend + Data Engineer focused on building scalable data systems and real-time distributed applications.
 
-I have experience developing distributed data pipelines, SQL-based processing systems, and reliable data workflows on large-scale datasets (100GB+). My work spans backend system design, real-time streaming systems, and ML infrastructure, with an emphasis on correctness, validation, and reproducibility.
+I have experience developing distributed data pipelines, SQL-based processing systems, and reliable data workflows on large-scale datasets. My work spans backend system design, real-time streaming systems, and ML infrastructure, with an emphasis on correctness, validation, and reproducibility.
 
 Open to roles in Backend Engineering, Data Engineering, and MLOps.
 
