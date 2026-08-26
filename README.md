@@ -4,7 +4,7 @@ Backend + Data Engineer focused on building scalable data systems and real-time 
 
 I have experience developing distributed data pipelines, SQL-based processing systems, and reliable data workflows on large-scale datasets (100GB+). My work spans backend system design, real-time streaming systems, and ML infrastructure, with an emphasis on correctness, validation, and reproducibility.
 
-Open to roles in Backend Engineering, Data Engineering, and ML Systems.
+Open to roles in Backend Engineering, Data Engineering, and MLOps.
 
 ---
 
@@ -12,7 +12,7 @@ Open to roles in Backend Engineering, Data Engineering, and ML Systems.
 
 **Research Assistant — Boston University (NIH-funded Alzheimer’s Disease Research)**
 
-Worked on large-scale UK Biobank and EHR datasets, building distributed data pipelines and experimentation systems for longitudinal analysis. Developed Spark SQL and Python pipelines to process 100GB+ datasets, improving data preprocessing efficiency through automated validation and monitoring. Designed a distributed experimentation framework using Spark and H2O to evaluate thousands of model configurations, enabling reliable and reproducible data workflows. Built an internal Python-based metadata management system to standardize dataset variables and support scalable experimentation. Also developed LLM-powered microservices to automate text and code analysis, improving data validation workflows and development efficiency.
+Worked on large-scale UK Biobank and EHR datasets, building distributed data pipelines and experimentation systems for longitudinal analysis. Developed Spark SQL and Python pipelines to process 25GB+ datasets, improving data preprocessing efficiency through automated validation and monitoring. Designed a distributed experimentation framework using Spark and H2O to evaluate thousands of model configurations, enabling reliable and reproducible data workflows. Built an internal Python-based metadata management system to standardize dataset variables and support scalable experimentation. Also developed LLM-powered microservices to automate text and code analysis, improving data validation workflows and development efficiency.
 
 ---
 
